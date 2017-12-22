@@ -1,0 +1,16 @@
+/* style to be added with javascript*/
+.winner {
+	color: green;
+}
+
+/* page style */
+
+.container {
+	margin: auto;
+	width: 30%;
+	border: 3px solid gray;
+	padding: 10px;
+	padding-bottom: 20px;
+	margin-top: 15%;
+	text-align: center;
+}
